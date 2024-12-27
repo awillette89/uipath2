@@ -15,6 +15,75 @@
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
+    },
+    {
+      "Path": "LeapYearFlowChart.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Year&Flowchart_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "IfSequence.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "IsLeapYear&Sequence_1",
+        "Year&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "LeapYearSequence.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Message&Sequence_1",
+        "Year&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "RenameInvoices.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "NewInvoiceName&Sequence_1",
+        "InvoicesNamesArray&Sequence_2",
+        "FolderPath&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Practice1ForEachAndIf.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "MaxValue&Sequence_2",
+        "MinValue&Sequence_2",
+        "IntegersArray&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "FlightReservation.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "UserInput&Sequence_1",
+        "ReturnDate&Sequence_1",
+        "DepartureDate&Sequence_1",
+        "Destination&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
     }
   ]
 }
