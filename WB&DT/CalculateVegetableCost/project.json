@@ -1,10 +1,10 @@
 {
-  "name": "SwitchPractice",
-  "projectId": "61fba5be-c7e8-4206-9b1b-9f8da37e85e8",
+  "name": "CalculateVegetableCost",
+  "projectId": "bda2d7d3-a062-4017-9ea9-913b23d2199c",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "2.25.0-preview",
+    "UiPath.Excel.Activities": "[2.25.0-preview]",
     "UiPath.System.Activities": "[24.10.7]"
   },
   "webServices": [],
@@ -47,7 +47,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "79577c7c-890d-45d1-abf7-2dcc111c83d0",
+      "uniqueId": "a368a3b6-0417-4730-8912-05b10604ae1a",
       "input": [],
       "output": []
     }
